@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An acte agaynst offenders of preachers, and other ministers of the Churche</title>
+            <title>Proclamations. 1553-07-19</title>
+            <author>England and Wales. Sovereign (1553-1558 : Mary I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1553</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21545</idno>
+            <idno type="STC">STC 7853</idno>
+            <idno type="STC">ESTC S117355</idno>
+            <idno type="EEBO-CITATION">99852569</idno>
+            <idno type="PROQUEST">99852569</idno>
+            <idno type="VID">17895</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21545)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 17895)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 638:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An acte agaynst offenders of preachers, and other ministers of the Churche</title>
+                  <title>Proclamations. 1553-07-19</title>
+                  <author>England and Wales. Sovereign (1553-1558 : Mary I)</author>
+               </titleStmt>
+               <extent>[3] leaves   </extent>
+               <publicationStmt>
+                  <publisher>In ædibus Iohannis Cawodi typographi Regiæ excusum,</publisher>
+                  <pubPlace>[Londini :</pubPlace>
+                  <date>Anno. MD.LIII. [1553]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect; first leaf torn, with slight loss of print.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:17895:1"/>
+            <head>¶An Acte agaynſt offenders of preachers, and other miniſters of the Churche.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuche as it is moſt neceſſary in euery chriſtian comon welth to prouide, that tranquillitie and peace may be preſerued and continued amonges the people, and ſpeciallye in holye Churche in the time of diuine ſeruice and adminiſtration of the Sacramentes, and Sacramentalles, as before thys time it hath bene accuſtomed in holy Churche within this realme, and that al thinges beyng contrary therunto, or that are or maye be in diſturbaunce th<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>t be eſchewed and auoyded, and remedy therfore in due tyme prouided, aſwell for the pr<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ion of the Quenes hyghnes peace, as for an vniuer<g ref="char:EOLunhyphen"/>ſall quietnes and ordre to be vſed within this realme.</p>
+            <p>Be it therfore enacted by the Quene our Soueraygne Lady, the Lordes, ſpirituall and tem<g ref="char:EOLhyphen"/>porall, and commons in this preſent parliament aſſembled, and by the aucthoritie of the ſame, that yf any perſon or perſons of their owne power and aucthoritye, at any time or times, after the .xx. day of December next commyng, do or ſhal willingly, and of purpoſe, by open and ouert worde, facte, acte, or dede, maliciouſly or contemptuouſly moleſte, lette, diſturbe, vexe, or trouble, or by any other vnlawfull wayes, or meanes, diſquiete, or miſuſe any preacher or preachers, that nowe is, or that at anye tyme or tymes hereafter ſhalbe licenſed, allowed, or aucthoriſed to preache by the Quenes hyghnes, or by any Archebiſſhop, or Biſſhop of this realme, or by any other lawful ordi<g ref="char:EOLhyphen"/>nary, or by any of the vniuerſities of Oxforde and Cambrige, or other wiſe lawfullye aucthoriſed or charged by reaſon of his, or their cure, benefice, or other ſpirituall promocion or charge, in anye of his, or their open ſermon, preachyng, or collacion, that he or they ſhall make, declare, preache, or pronounce in any Churche, chappell, Churcheyard, or in any other place or places, vſed, frequen<g ref="char:EOLhyphen"/>ted, or appoynted, or that hereafter ſhalbe vſed or appoynted to be preached in.</p>
+            <p>Or yf any perſon, or perſons after the ſayde .xx. day of December next commynge, ſhall mali<g ref="char:EOLhyphen"/>ciouſly, willingly, or of purpoſe, moleſt, lette, diſturbe, vexe, diſquiete, or otherwiſe trouble anye perſon, vicar, paryſhe prieſt, or curate, or any lawfull prieſt, prepayring, ſaying, doing, ſingyng, mi<g ref="char:EOLhyphen"/>niſtrynge, or celebratyng the Maſſe, or other ſuche diuine ſeruice, Sacramentes, or Sacramen<g ref="char:EOLhyphen"/>talles, as was mooſte commonly frequented and vſed in the laſte yeare of the raygne of the late Soueraygne Lorde kinge Henry theight, or that at any tyme hereafter ſhalbe allowed, ſet forth, or aucthoriſed by the Quenes Maieſtie.</p>
+            <p>Or yf any perſon or perſons at any time or times, after the ſayde .xx. daye of December, ſhall contemptuouſly, vnlawfully, or maliciouſly of their owne power or aucthoritie, pul downe, deface ſpoyle, abuſe, breake, or other wiſe vnreuerently handle, or ordre the mooſt bleſſed comfortable &amp;, holy Sacrament of the body and bloude of our Sauiour Ieſus Chriſt, comonly called the Sa<g ref="char:EOLhyphen"/>crament of the Alter, beyng, or that ſhalbe in any Churche or Chappell, or in anye other decente place, or the pixe or canapie, wherin the ſame Sacrament is or ſhalbe, or vnlawfully, conte<g ref="char:cmbAbbrStroke">̄</g>ptuou<g ref="char:EOLhyphen"/>ſly, or maliciouſly of their owne power and aucthoritie pull downe, deface, ſpoyle, or otherwyſe breake any aulter or aulters, or any crucifixe, or croſſe, that now or hereafter ſhalbe in any churche chappell, or churcheyarde. That then euery ſuche offender and offenders in anye the premiſſes his or their aydour, procuror, or abbettor, aydours, procurours, or abbettours, immediatlye and forthwith after anye of the ſayde Acte or Actes, or other the ſayde miſdemeanours ſo commit<g ref="char:EOLhyphen"/>ted, done, or made, or at anye time or times after, ſhalbe apprehended, arreſted, and taken by anye Conſtable or Conſtables, Churchewardeyn, or churchewardeyns of the ſayde paryſhe, towne,
+<pb facs="tcp:17895:2"/>or place, where the ſayde offence or offences ſhalbe ſo committed, made, or done, or by anye other officer or officers, or by anye other perſon or perſons, then beinge preſent at the tyme of the ſayde offence or offences ſo vnlawfully committed, made, or done. Whiche perſon or perſons ſo appre<g ref="char:EOLhyphen"/>hended, taken, or arreſted with conueniente ſpede, ſhalbe broughte and caryed to anye Iuſtice of peace within the ſayd Shire, or within any Citie, Borowe, Libertie, or Towne corporate, wher<g ref="char:EOLhyphen"/>in Iuſtices of peace be, where the ſayde offence or offences ſhalbe ſo committed, done, and made, and that the ſayd Iuſtice of peace, vpon due accuſation, thereupon had and made by the apprehen<g ref="char:EOLhyphen"/>dour, or apprehendours, or other perſon or perſons of any of the ſayde perſon or perſons ſo offen<g ref="char:EOLhyphen"/>dynge, forthwith, ſhall committe the ſayde perſon or perſons, ſo apprehended, arreſted, and taken, to ſauffekepyng and cuſtodye, as by the diſcretion of the ſayde Iuſtice ſhalbe thought mooſt mete and conueniente, and that within .vj. dayes nexte and immediatlye after the ſayde accuſation ſo had and made to the ſayde Iuſtice, the ſayde Iuſtice with one other Iuſtice of peace in the ſayde Shire, Citie, Borowe, Libertie, or towne corporate, ſhall diligentlye examine the Acte or Actes, offence or offences aforeſayde. And yf they the ſayde two Iuſtices of peace, ſhall vpon their ſayde examination finde or perceaue the ſayde perſon or perſons ſo accuſed, giltie of any of the ſayde of<g ref="char:EOLhyphen"/>fence or offences, wherof he or they ſhalbe ſo accuſed, and that by two ſufficient wytneſſes, or by his or their owne confeſſion or confeſſions, That then and immediatlye with conueniente ſpede, the ſayde two Iuſtices ſhall committe and awarde the ſayde perſon or perſons ſo accuſed, as is aforeſayd to the gayle of, or for the ſayd ſhire, citie, borowe, libertie, or towne corporate, where the ſayd offence or offences was ſo co<g ref="char:cmbAbbrStroke">̄</g>mitted, made, or done, there to remayne without bayle or maine price by the ſpace of thre monethes, then nexte enſuing, and further to the next quarter ſeſſions to be holden within the ſayde ſhire, citie, borowe, libertie, or towne corporate, nexte after thende of the ſayde thre monethes, at which ſayd quarter ſeſſions, the ſayd perſon or perſons, ſo commit<g ref="char:EOLhyphen"/>ted to the gayle, as is aforeſayde, vpon his or their reconciliation and repentaunce in that behalfe, before the ſayde iuſtices of peace at the ſayde ſeſſions, ſhalbe deliuered and diſcharged out of pri<g ref="char:EOLhyphen"/>ſon and gayle vpon ſufficient ſuertie of his good abearyng and behauoure, to be then &amp; there ta<g ref="char:EOLhyphen"/>ken by the ſayd Iuſtices for one hole yeare, then next enſuinge, as by the diſcretion or diſcretions of the ſayde Iuſtices then, and there beyng, or of the more part of them, ſhalbe thought mete and conueniente. And yf the ſayde perſon or perſons ſo in gayle, as is aforeſayde, will not be reconci<g ref="char:EOLhyphen"/>led and repente at the ſayde quarter ſeſſions, that then the ſayde perſon or perſons immediatlye in time conuenient, ſhalbe further awarded and committed to the ſayde gayle, by the ſayd Iuſti<g ref="char:EOLhyphen"/>ces, or by the more part of them, there to remayne, without bayle or maynepriſe, vntill he or they ſo committed and awarded to gayle, as is aforeſayde, ſhalbe reconciled, and be penitente for hys or their ſayde offence or offences.</p>
+            <p>And be it further enacted by the auctoritye aforeſayde, that yf anye perſon or perſons, at any time or times, after the ſayde twentye daye of December, of their owne aucthoritye and power, willingly, and vnlawfully do reſkewe anye offender or offenders ſo apprehended, taken, or arre<g ref="char:EOLhyphen"/>ſted, as is aforeſayde, or will diſturbe, hynder, or lette the ſayde offender or offenders, ſo offen<g ref="char:EOLhyphen"/>dyng, as is aforeſayde, to be apprehended, taken, or arreſted, that then euery one of the ſayde re<g ref="char:EOLhyphen"/>ſkewers or diſturbours, ſhall ſuffer lyke impriſonmente, as is aforeſayde, and further ſhall paye forfeyte, and loſe for a fine, for euery of his or their ſayde offences .v. li. to the Quenes Maieſtie her heyres and ſucceſſours.</p>
+            <p>And be it further enacted, by thauctoritie aforeſayd, that yf any of the offenders aforeſayd be not taken, apprehended, or arreſted immediatly in tyme conueniente, as is aforeſayde, but do eſcape, or go awaye, that then the ſayde eſcape ſhalbe lawfullye preſented before the Iuſtices of
+<pb facs="tcp:17895:3"/>peace in the ſayde Shier, Citie, Borowe, Libertie, or Towne corporate, at the next quarter ſeſſi<g ref="char:EOLhyphen"/>ons to be holden, where the ſayd eſcape was made and ſuffred, and that then thinhabitauntes of the paryſhe, where the ſayde eſcape was ſo ſuffred, ſhall forfeyte and loſe to the Quenes Maie<g ref="char:EOLhyphen"/>ſtie her heyres and ſucceſſours, for euery ſuche eſcape. v. li. to be leuied and taken, as other lyke a<g ref="char:EOLhyphen"/>merciamentes and fines before this time, hath, and bene leauied and taken vpon any village, hun<g ref="char:EOLhyphen"/>dred, or towne, for the eſcape of any murderer, or other felon, for not making purſuite vpon Hue, and crye accordynge to the eſtatute of Wyncheſter, and the eſtatute made and prouided in the thirde yeare of the worthy kyng Henry the ſeuenth.</p>
+            <p>And be it further enacted by thaucthoritie aforeſayde, that all and ſinguler the Iuſtices of peace, Iuſtices of aſſiſe, Iuſtices of oyer and determiner, &amp; all and ſinguler Maiours, Bayliffes, and Iuſtices of peace, within anye Citie, Borowe, or Towne corporate, in any partes within this realme, within the limittes of their commiſſion or commiſſions, ſhal haue full power and aucthori<g ref="char:EOLunhyphen"/>tie, by vertue of this Acte, after the ſayd .xx. daye of December, to enquire of all and ſinguler the offences and miſdemeanours aforeſayd, and to heare and determine the ſame, and to ſet the fines and amerciamentes of the ſayd offender or offenders, as is afore ſayd.</p>
+            <p>Prouided alwayes, and be it further enacted by thauctoritie aforeſayd, that this Acte or anye thing therin conteyned, ſhal not in any wiſe extende to abrigate and take away thauctoritie. Iu<g ref="char:EOLhyphen"/>riſdiccion, power, and punyſhmentes of the eccleſiaſticall lawes, nowe ſtandynge, and remayning in their force, of, or for the puniſhmente of anye the offences and miſdemeanours afore ſayde, but that thauctoritye, power, Iuriſdiccions, and puniſhmentes of the ſayde eccleſiaſtical lawes, of, &amp; for anye of the offences and miſdemeanours aforeſayd, ſhal ſtande in ful power and ſtrength, and to be vſed and exerciſed in all, and in euery thinges, as thoughe his Acte had neuer bene had and made. This preſent Acte or any thyng therin conteyned to the contrary hereof in any wyſe not<g ref="char:EOLhyphen"/>withſtandynge.</p>
+            <p>Prouided alwayes, and be it enacted, that whatſoeuer perſon offendyng in the premiſſes, ſhall for any of the offences afore recited, receaue punyſhment of the ordinarye, hauyng a teſtimoniall therof, vnder the ſayde ordinaries ſeale, ſhall not for the ſame offence, eftſones be conuicted before the Iuſtice, and in likewyſe receauynge for the ſayde offences, puniſhment by the Iuſtice, he ſhall not for the ſame offence eftſones receaue puniſhment of the ordinarye. Anye thynge in this Acte to the contrary notwithſtandynge.</p>
+            <closer>God ſaue the Quene.</closer>
+         </div>
+      </body>
+      <back>
+         <div xml:lang="lat" type="colophon">
+            <p>Londini in aedibus Iohannis Cawodi Typographi Regiae excuſum.</p>
+            <p>Anno. MD.LIII.</p>
+         </div>
+         <div xml:lang="lat" type="license">
+            <p>Cum priuilegio ad imprimendum ſolum</p>
+         </div>
+      </back>
+   </text>
+</TEI>
